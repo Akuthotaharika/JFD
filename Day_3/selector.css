@@ -1,0 +1,13 @@
+div{
+    color: red;
+}
+#div4{
+    color: black;
+    background-color: aqua;
+}
+.div2{
+    color: brown;
+}
+*{
+    background-color: blueviolet;
+}
